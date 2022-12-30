@@ -279,8 +279,8 @@ Os preços são apenas referencias do momento em que eu adquiri os equipamentos 
 
 
 
- ## Braço de Fricção Mágico para Smartphone, Suporte de Parede, 32"
- **(R$ 229,00)**
+## Braço articulado para Webcam
+**(R$ 229,00)**
 [Link](https://pt.aliexpress.com/item/1005003140476462.html?spm=a2g0o.order_list.0.0.5a31caa4NePTTl&gatewayAdapt=glo2bra)
 
 
