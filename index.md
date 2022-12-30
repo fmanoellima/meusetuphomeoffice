@@ -12,7 +12,7 @@ Os preços são apenas referencias do momento em que eu adquiri os equipamentos 
 
 
 # Móveis 
-**Total: R$ 11311,00**
+**Total: R$ 11.311,00**
 
 ## Cadeira DT3 Office Heroica Black 
 **(R$ 5681,00)**
@@ -57,7 +57,7 @@ Os preços são apenas referencias do momento em que eu adquiri os equipamentos 
 ---
 
 # Periféricos
-**Total: R$ 20770,00**
+**Total: R$ 20.770,00**
 
 ## Monitor Gamer LG 34 LED Ultra Wide Curvo, 160 Hz, QHD, 1ms, HDMI/DisplayPort, 99% sRGB, FreeSync Premium, HDR 10, VESA, Preto - 34WP65C-B 
 **(R$ 2900,00)**
@@ -229,7 +229,7 @@ Os preços são apenas referencias do momento em que eu adquiri os equipamentos 
 ---
 
 # Acessórios
-**Total R$ 2168,90**
+**Total R$ 2.168,90**
 
 ## Filtro de Linha iCLAMPER Energia 8 - Preto 2 Unidades 
 **(R$ 160,00)**
