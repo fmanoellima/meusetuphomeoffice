@@ -57,7 +57,7 @@ Os preços são apenas referencias do momento em que eu adquiri os equipamentos 
 ---
 
 # Periféricos
-**Total: 20770,00**
+**Total: R$ 20770,00**
 
 ## Monitor Gamer LG 34 LED Ultra Wide Curvo, 160 Hz, QHD, 1ms, HDMI/DisplayPort, 99% sRGB, FreeSync Premium, HDR 10, VESA, Preto - 34WP65C-B 
 **(R$ 2900,00)**

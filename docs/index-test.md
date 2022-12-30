@@ -1,6 +1,5 @@
 ---
 layout: default
-
 ---
 
 <button class="btn js-toggle-dark-mode">Preview dark color scheme</button>
