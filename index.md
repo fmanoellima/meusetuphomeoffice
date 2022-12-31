@@ -71,7 +71,7 @@ Os preços são apenas referencias do momento em que eu adquiri os equipamentos 
 
 
 
-## LUMINÁRIA DE MESA ARTICULADA - ALICE BRANCA 
+## Luminária de mesa articulada branca - Alice 
 **(R$ 180,00)**
 [Link](https://www.dilluminato.com.br/produtos/luminaria-de-mesa-articulada-alice-branca/?variant=373916097)
 
@@ -119,13 +119,13 @@ Os preços são apenas referencias do momento em que eu adquiri os equipamentos 
 
 
 
-## Fone Headset Sony Sony WH-1000XM4 com ANC 
+## Fone Bluetooth Headset Sony WH-1000XM4 com ANC 
 **(R$ 1600,00)**
 [Link](https://pt.aliexpress.com/item/1005004323951829.html?gatewayAdapt=glo2bra)
 
 
 
-## Sony WF-1000XM4 Fone de ouvido bluetooth TWS com cancelamento de ruído
+## Fone Bluetooth TWS Sony WF-1000XM4 com ANC
 **(R$ 1200,00)**
 [Link](https://pt.aliexpress.com/item/1005004375623726.html?gatewayAdapt=glo2bra)
 
@@ -137,7 +137,7 @@ Os preços são apenas referencias do momento em que eu adquiri os equipamentos 
 
 
 
-## Microfone Gamer HyperX QuadCast, Antivibração, LED, Preto e Vermelho
+## Microfone HyperX QuadCast, Antivibração, LED, Preto e Vermelho
 **(R$ 800,00)**
 [Link](https://www.kabum.com.br/produto/101288/microfone-gamer-hyperx-quadcast-antivibracao-led-preto-e-vermelho-compativel-com-pc-mac-e-consoles-hx-micqc-bk)
 
@@ -149,7 +149,7 @@ Os preços são apenas referencias do momento em que eu adquiri os equipamentos 
 
 
 
-## Mouse Gamer Sem Fio Logitech G604
+## Mouse Sem Fio Logitech G604 - Preto 
 **(R$ 550,00)**
 [Link](https://www.logitechstore.com.br/mouse-sem-fio-para-jogos-logitech-g604/)
 
@@ -167,7 +167,7 @@ Os preços são apenas referencias do momento em que eu adquiri os equipamentos 
 
 
 
-## Teclado Númerico Bluetooth Microsoft 
+## Teclado Númerico Bluetooth Microsoft - Branco 
 **(R$ 200,00)**
 [Link](https://www.kabum.com.br/produto/374177/teclado-numerico-microsoft-bluetooth-23o-00030-microsoft)
 
@@ -215,7 +215,7 @@ Os preços são apenas referencias do momento em que eu adquiri os equipamentos 
 
 
 
-## Baseus 20w carregador usb 
+## Carregador USB Baseus 20w 
 **(R$ 40,00)**
 [Link](https://pt.aliexpress.com/item/1005002688466600.html?spm=a2g0o.order_list.order_list_main.52.c9bccaa4vNVO5U&gatewayAdapt=glo2bra)
 
@@ -237,7 +237,7 @@ Os preços são apenas referencias do momento em que eu adquiri os equipamentos 
 
 
 
-## Suporte ELG Articulado de Mesa com Pistão a Gás para Monitores - FH80N 
+## Suporte Articulado de Mesa com Pistão a Gás para Monitores - ELG FH80N 
 **(R$ 300,00)**
 [Link](https://www.amazon.com.br/Suporte-para-monitor-articulado-Fh80n/dp/B08MSWLW24)
 
@@ -255,7 +255,7 @@ Os preços são apenas referencias do momento em que eu adquiri os equipamentos 
 
 
 
-## Apoio Ergonômico para mouse Preto e Branco 
+## Apoio Ergonômico de pulso para mouse - Preto e Branco 
 **(R$ 25,00 X 2)**
 [Link](https://pt.aliexpress.com/item/1005001891052034.html?spm=a2g0o.order_list.0.0.7ec6caa4s0ooCB&gatewayAdapt=glo2bra)
 
