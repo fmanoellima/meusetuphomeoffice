@@ -1,6 +1,7 @@
 ---
 layout: default
-
+title: Setup Home Office
+nav_order: 1
 ---
 
 # Comece simples, incremente dentro da sua realidade e, aos poucos, alcance o que deseja.
@@ -101,7 +102,7 @@ Os preços são apenas referencias do momento em que eu adquiri os equipamentos 
 
 
 
-## Cabo Thunderbolt 4 usb c 100w 40gbps 
+## Cabo Thunderbolt 4 100w 40gbps 
 **(R$ 100,00)**
 [Link](https://pt.aliexpress.com/item/1005003774541678.html?spm=a2g0o.order_list.0.0.7ec6caa4s0ooCB&gatewayAdapt=glo2bra)
 
@@ -162,7 +163,7 @@ Os preços são apenas referencias do momento em que eu adquiri os equipamentos 
 
 
 ## Teclado sem fio Multi-dispositivo Logitech MX Keys Mini Cinza 
-**(R$ 800,00)**
+**(Entre R$ 690,00 e R$ 800,00)**
 [Link](https://www.logitechstore.com.br/teclado-sem-fio-multi-dispositivo-logitech-mx-keys-mini-cinza/)
 
 
