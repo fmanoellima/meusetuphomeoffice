@@ -229,7 +229,7 @@ Os preços são apenas referencias do momento em que eu adquiri os equipamentos 
 ---
 
 # Acessórios
-**Total R$ 2.168,90**
+**Total R$ 2.296,90**
 
 ## Filtro de Linha iCLAMPER Energia 8 - Preto 2 Unidades 
 **(R$ 160,00)**
@@ -296,11 +296,29 @@ Os preços são apenas referencias do momento em que eu adquiri os equipamentos 
 [Link](https://www.bullpad.com.br/desk-pad-max-90x40cm-preto-em-couro-sintetico-desk90x40pto)
 
 
+## Grampo adesivo para cabos maiores ou grupo de cabos
+**(R$ 32,00)**
+[Link](https://pt.aliexpress.com/item/1005003753207729.html)
+
+
+## Clipe autoadesivo para organização de fios ou cabo único
+**(R$ 37,00)**
+[Link](https://pt.aliexpress.com/item/1005002478396980.html)
+
+
+## Fita de velcro Organizador de cabos Baseus
+**(R$ 39,00)**
+[Link](https://pt.aliexpress.com/item/1005003991439265.html)
+
+
+## Organizador de cabos branco
+**(R$ 20,00)**
+[Link](https://www.amazon.com.br/Organizador-Force-Line-0101200027-Branco/dp/B07F979YS9/ref=asc_df_B07F979YS9/)
+
 
 ## Desk Pad Concept 70x30cm em Feltro Mescla 
 **(R$ 39,90)**
 [Link](https://www.bullpad.com.br/desk-pad-max-70x30cm-em-feltro-mescla-desk70x30feltromescla)
-
 
 
 ## Tapete Antifadiga 
