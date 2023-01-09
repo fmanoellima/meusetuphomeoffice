@@ -20,14 +20,16 @@ nav_order: 2
 
 ### Baseus 65w power bank 30000mah com pd 3.0 qc3.0
 **(Entre R$ 300,00 e R$ 450,00)**
-[Link](https://pt.aliexpress.com/item/4000958620294.html)
+<!-- [Link](https://pt.aliexpress.com/item/4000958620294.html) -->
+[Link](https://s.click.aliexpress.com/e/_Dd9BXgj)
 
 OU
 {: .fs-4 }
 
 ### Powerbank Baseus 100w 20000ma com QC e PD
 **(Entre R$ 400,00 e R$ 550,00)**
-[Link](https://pt.aliexpress.com/item/1005003822943750.html)
+<!-- [Link](https://pt.aliexpress.com/item/1005003822943750.html)  -->
+[Link](https://s.click.aliexpress.com/e/_DeZMPqX)
 
 
 ###### Ambos possuem capacidade de carregamento simultaneo de multiplos aparelhos e até mesmo potência suficiente para carregamento de notebooks
@@ -38,14 +40,16 @@ OU
 
 ### Baseus 100w gan usb tipo c carregador pd qc 4.0 de carga rápida 3.0 USB-C tipo-c
 **(Entre R$ 200,00 e R$ 290,00)**
-[Link](https://pt.aliexpress.com/item/1005002042949874.html)
+<!-- [Link](https://pt.aliexpress.com/item/1005002042949874.html)  -->
+[Link](https://s.click.aliexpress.com/e/_DEyXuPz)
 
 OU
 {: .fs-4 }
 
 ### Ugreen gan carregador 100w usb c pd carregador rápido qc4.0
 **(Entre R$ 250,00 e R$ 310,00)**
-[Link](https://pt.aliexpress.com/item/1005002767280030.html)
+<!-- [Link](https://pt.aliexpress.com/item/1005002767280030.html) -->
+[Link](https://s.click.aliexpress.com/e/_DeHgTJt)
 
 ###### Ambos possuem capacidade de carregamento rapido e simultaneo de varios aparelhos
 
@@ -100,7 +104,8 @@ OU
 
 ## Cabo Thunderbolt 4 100w 40gbps  
 **(R$ 100,00)**
-[Link](https://pt.aliexpress.com/item/1005003774541678.html?spm=a2g0o.order_list.0.0.7ec6caa4s0ooCB&gatewayAdapt=glo2bra)
+<!-- [Link](https://pt.aliexpress.com/item/1005003774541678.html) -->
+[Link](https://s.click.aliexpress.com/e/_DEIOdob)
 
 ###### Cabo para conectar o monitor externo ao seu notebook, Thunderbolt 4 para ser capaz de transmitir sinal de vídeo e energia para o Monitor. Também pode ser usado para carregar outros dispositivos quando o monitor não estiver sendo usado
 
@@ -112,16 +117,19 @@ OU
 
 ## Suporte do telefone celular em alumínio dobrável UGREEN
 **(Entre R$ 75,00 e R$ 95,00)**
-[Link](https://pt.aliexpress.com/item/4001308374291.html)
+<!-- [Link](https://pt.aliexpress.com/item/4001308374291.html) -->
+[Link](https://s.click.aliexpress.com/e/_DE3KVh5)
 
 ###### Compacto, permite ajuste de altura, angulo e suporta tablets também
 
 ## Suporte para notebook dobravel em aluminio
 **(R$ 65,00)**
-[Link](https://pt.aliexpress.com/item/1005003176106692.html)
+<!-- [Link](https://pt.aliexpress.com/item/1005003176106692.html) -->
+[Link](https://s.click.aliexpress.com/e/_DDp5PG7)
 ###### Quando está fechado não ocupa espaço nenhum. Permite regulagem de altura
 
 ## Mochila a prova d`água para notebook
 **(R$ 350,00)**
-[Link](https://pt.aliexpress.com/item/1005002242704384.html)
+<!-- [Link](https://pt.aliexpress.com/item/1005002242704384.html) -->
+[Link](https://s.click.aliexpress.com/e/_DnqLbUL)
 ###### Multiplos compartimentos, discreta
