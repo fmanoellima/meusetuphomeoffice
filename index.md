@@ -68,7 +68,7 @@ Os preços são apenas referencias do momento em que eu adquiri os equipamentos 
 
 ## Luz Godox e-sports es45 kit 2800k-6500 
 **(R$ 750,00)**
-[Link](https://pt.aliexpress.com/item/1005002376492175.html?spm=a2g0o.order_list.0.0.1a72caa4teKLQ0&gatewayAdapt=glo2bra)
+[Link](https://pt.aliexpress.com/item/1005002376492175.html)
 
 
 
@@ -80,13 +80,13 @@ Os preços são apenas referencias do momento em que eu adquiri os equipamentos 
 
 ## Yeelight-lâmpada inteligente led 1s colorida, 800 lúmens, e27 
 **(R$ 130,00)**
-[Link](https://pt.aliexpress.com/item/4000631554842.html)
-
-
+<!--[Link](https://pt.aliexpress.com/item/4000631554842.html)  -->
+[Link](https://s.click.aliexpress.com/e/_DBoIjvN)
 
 ## Cabo Ugreen displayport 8k dp1.4 4k144hz 
 **(R$ 80,00)**
-[Link](https://pt.aliexpress.com/item/32516394446.html)
+<!--[Link](https://pt.aliexpress.com/item/32516394446.html)-->
+[Link](https://s.click.aliexpress.com/e/_Dl5djfh)
 
 
 
@@ -104,31 +104,31 @@ Os preços são apenas referencias do momento em que eu adquiri os equipamentos 
 
 ## Cabo Thunderbolt 4 100w 40gbps 
 **(R$ 100,00)**
-[Link](https://pt.aliexpress.com/item/1005003774541678.html?spm=a2g0o.order_list.0.0.7ec6caa4s0ooCB&gatewayAdapt=glo2bra)
-
+<!--[Link](https://pt.aliexpress.com/item/1005003774541678.html)-->
+[Link](https://s.click.aliexpress.com/e/_DEIOdob)
 
 
 ## Lampada Monitor Yeelight tela rgb led Smart barra de luz 
 **(R$ 600,00)**
-[Link](https://pt.aliexpress.com/item/1005002238265590.html?spm=a2g0o.order_list.0.0.7ec6caa4s0ooCB&gatewayAdapt=glo2bra)
+[Link](https://pt.aliexpress.com/item/1005002238265590.html)
 
 
 
 ## Fita de Led Smart Yeelight rgb lightstrip 1s 2Mt 
 **(R$ 250,00)**
-[Link](https://pt.aliexpress.com/item/1005002198782053.html?spm=a2g0o.order_list.0.0.7ec6caa4s0ooCB&gatewayAdapt=glo2bra)
+[Link](https://pt.aliexpress.com/item/1005002198782053.html)
 
 
 
 ## Fone Bluetooth Headset Sony WH-1000XM4 com ANC 
 **(R$ 1600,00)**
-[Link](https://pt.aliexpress.com/item/1005004323951829.html?gatewayAdapt=glo2bra)
+[Link](https://pt.aliexpress.com/item/1005004323951829.html)
 
 
 
 ## Fone Bluetooth TWS Sony WF-1000XM4 com ANC
 **(R$ 1200,00)**
-[Link](https://pt.aliexpress.com/item/1005004375623726.html?gatewayAdapt=glo2bra)
+[Link](https://pt.aliexpress.com/item/1005004375623726.html)
 
 
 
@@ -176,7 +176,8 @@ Os preços são apenas referencias do momento em que eu adquiri os equipamentos 
 
 ## Webcam Insta360 Link - Com Rastreamento por IA, Controle de Gestos, HDR, Microfone com Supressão de Ruído, Modos Especializados, Sensor de 1/2", 4K 
 **(R$ 1420,00)**
-[Link](https://pt.aliexpress.com/item/1005004602831842.html)
+<!--[Link](https://pt.aliexpress.com/item/1005004602831842.html) -->
+[Link](https://s.click.aliexpress.com/e/_DemYvZH)
 
 
 
@@ -200,31 +201,39 @@ Os preços são apenas referencias do momento em que eu adquiri os equipamentos 
 
 ## Ugreen usb hub 4-port usb 3.0 
 **(R$ 100,00)**
-[Link](https://pt.aliexpress.com/item/4001296031441.html?spm=a2g0o.order_list.0.0.7ec6caa4s0ooCB&gatewayAdapt=glo2bra)
+<!--[Link](https://pt.aliexpress.com/item/4001296031441.html)-->
+[Link](https://s.click.aliexpress.com/e/_DEBFDKP)
 
 
 
 ## Carregador de Mesa Baseus 100W 
 **(R$ 305,00)**
-[Link](https://pt.aliexpress.com/item/1005003117435688.html?spm=a2g0o.order_list.0.0.7ec6caa4s0ooCB&gatewayAdapt=glo2bra)
+<!--[Link](https://pt.aliexpress.com/item/1005003117435688.html)-->
+[Link](https://s.click.aliexpress.com/e/_Dlncshv)
+
 
 
 
 ## Carregador Wireless 15W Baseus Branco 
 **(R$ 95,00)**
-[Link](https://pt.aliexpress.com/item/4000726296595.html)
+<!--[Link](https://pt.aliexpress.com/item/4000726296595.html)-->
+[Link](https://s.click.aliexpress.com/e/_DDGZ5IX)
+
 
 
 
 ## Carregador USB Baseus 20w 
 **(R$ 40,00)**
-[Link](https://pt.aliexpress.com/item/1005002688466600.html?spm=a2g0o.order_list.order_list_main.52.c9bccaa4vNVO5U&gatewayAdapt=glo2bra)
+<!--[Link](https://pt.aliexpress.com/item/1005002688466600.html)-->
+[Link](https://s.click.aliexpress.com/e/_DkU1b1V)
+
 
 
 
 ## Aquecedor Eletrico portatil Gaiatop 1000W 
 **(R$ 350,00)**
-[Link](https://pt.aliexpress.com/item/1005004629434254.html)
+<!--[Link](https://pt.aliexpress.com/item/1005004629434254.html)-->
+[Link](https://s.click.aliexpress.com/e/_DBldHfZ)
 
 
 ---
@@ -252,43 +261,51 @@ Os preços são apenas referencias do momento em que eu adquiri os equipamentos 
 
 ## Suporte de Madeira para Celular 
 **(R$ 45,00)**
-[Link](https://pt.aliexpress.com/item/4001031980369.html?spm=a2g0o.order_list.0.0.7ec6caa4s0ooCB&gatewayAdapt=glo2bra)
+[Link](https://pt.aliexpress.com/item/4001031980369.html)
 
 
 
 ## Apoio Ergonômico de pulso para mouse - Preto e Branco 
 **(R$ 25,00 X 2)**
-[Link](https://pt.aliexpress.com/item/1005001891052034.html?spm=a2g0o.order_list.0.0.7ec6caa4s0ooCB&gatewayAdapt=glo2bra)
+<!--[Link](https://pt.aliexpress.com/item/1005001891052034.html)-->
+[Link](https://s.click.aliexpress.com/e/_DkEAKa3)
 
 
 
 ## Apoio de pulso para teclado 
 **(R$ 30,00)**
-[Link](https://pt.aliexpress.com/item/1005001604294750.html?spm=a2g0o.order_list.0.0.7ec6caa4s0ooCB&gatewayAdapt=glo2bra)
+[Link](https://pt.aliexpress.com/item/1005001604294750.html)
 
 
 
 ## Suporte de madeira para fone de ouvido 
 **(R$ 70,00)**
-[Link](https://pt.aliexpress.com/item/1005001501505728.html?spm=a2g0o.order_list.0.0.7ec6caa4s0ooCB&gatewayAdapt=glo2bra)
+<!--[Link](https://pt.aliexpress.com/item/1005001501505728.html) -->
+[Link](https://s.click.aliexpress.com/e/_DES37GL)
 
 
 
 ## Braço articulado para microfone Vijim ls24 
 **(R$ 275,00)**
-[Link](https://pt.aliexpress.com/item/1005003944904536.html?spm=a2g0o.order_list.order_list_main.78.4135caa4oAq9MB&gatewayAdapt=glo2bra)
+<!--[Link](https://pt.aliexpress.com/item/1005003944904536.html) -->
+[Link](https://s.click.aliexpress.com/e/_Dd0QT8b)
+
 
 
 
 ## Braço articulado para Webcam
 **(R$ 229,00)**
-[Link](https://pt.aliexpress.com/item/1005003140476462.html?spm=a2g0o.order_list.0.0.5a31caa4NePTTl&gatewayAdapt=glo2bra)
+<!--[Link](https://pt.aliexpress.com/item/1005003140476462.html) -->
+[Link](https://s.click.aliexpress.com/e/_DFdC8Pd)
+
 
 
 
 ## Ugreen suporte vertical portátil notebook  alumínio 
 **(R$ 130,00)**
-[Link](https://pt.aliexpress.com/item/1005002858346492.html?spm=a2g0o.order_list.0.0.7ec6caa4s0ooCB&gatewayAdapt=glo2bra)
+<!-- [Link](https://pt.aliexpress.com/item/1005002858346492.html)  -->
+[Link](https://s.click.aliexpress.com/e/_DmZnYWx)
+
 
 
 
@@ -299,17 +316,21 @@ Os preços são apenas referencias do momento em que eu adquiri os equipamentos 
 
 ## Grampo adesivo para cabos maiores ou grupo de cabos
 **(R$ 32,00)**
-[Link](https://pt.aliexpress.com/item/1005003753207729.html)
+<!-- [Link](https://pt.aliexpress.com/item/1005003753207729.html)  -->
+[Link](https://s.click.aliexpress.com/e/_DFCh2qj)
 
 
 ## Clipe autoadesivo para organização de fios ou cabo único
 **(R$ 37,00)**
-[Link](https://pt.aliexpress.com/item/1005002478396980.html)
+<!-- [Link](https://pt.aliexpress.com/item/1005002478396980.html) -->
+[Link](https://s.click.aliexpress.com/e/_Dmy4J8b)
+
 
 
 ## Fita de velcro Organizador de cabos Baseus
 **(R$ 39,00)**
-[Link](https://pt.aliexpress.com/item/1005003991439265.html)
+<!-- [Link](https://pt.aliexpress.com/item/1005003991439265.html) -->
+[Link](https://s.click.aliexpress.com/e/_DmCdZnD)
 
 
 ## Organizador de cabos branco
