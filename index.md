@@ -58,7 +58,7 @@ Os preços são apenas referencias do momento em que eu adquiri os equipamentos 
 ---
 
 # Periféricos
-**Total: R$ 22.055,00**
+**Total: R$ 23.545,00**
 
 ## Monitor Gamer LG 34 LED Ultra Wide Curvo, 160 Hz, QHD, 1ms, HDMI/DisplayPort, 99% sRGB, FreeSync Premium, HDR 10, VESA, Preto - 34WP65C-B 
 **(R$ 2900,00)**
@@ -130,6 +130,10 @@ Os preços são apenas referencias do momento em que eu adquiri os equipamentos 
 **(R$ 1200,00)**
 [Link](https://pt.aliexpress.com/item/1005004375623726.html)
 
+
+##  Headset Gamer Corsair Virtuoso RGB Wireless SE Premium - 7.1 Drivers 50mm
+**(R$ 1040,00)**
+[Link] (https://www.kabum.com.br/produto/107880/headset-sem-fio-gamer-corsair-virtuoso-se-premium-rgb-som-surround-7-1-drivers-50mm-multiplas-plataformas-espresso-ca-9011181-na)
 
 
 ## Monitor Portátil Asus ZenScreen 15.6 Full HD, IPS, USB Type-C, Cinza Escuro - MB16ACE 
@@ -247,6 +251,10 @@ Cinza claro
 <!--[Link](https://pt.aliexpress.com/item/1005004629434254.html)-->
 [Link](https://s.click.aliexpress.com/e/_DBldHfZ)
 
+
+## Caixa de som portátil Bluetooth Anker Soundcore motion plus
+**(R$ 450,00)**
+[Link] (https://s.click.aliexpress.com/e/_mt4c2C0)
 
 ---
 
