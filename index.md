@@ -55,6 +55,20 @@ Os preços são apenas referencias do momento em que eu adquiri os equipamentos 
 **(R$ 350,00)**
 [Link](https://www.mobly.com.br/gaveteiro-face-3-gv-branco-649774.html#a=3|p=30|pn=2|t=Busca|s=0)
 
+
+## Painel Eucatex Furado Organização 120x60cm Pegboard Moldura
+**(R$ 230,00)**
+[Link](https://produto.mercadolivre.com.br/MLB-2216254983-painel-eucatex-furado-organizaco-120x60cm-pegboard-moldura-_JM)
+
+
+## 2X Prateleira 1,60mt X 0,30mt Mdf Carvalho 15mm 160x30cm
+**(R$ 150,00 cada)**
+[Link](https://produto.mercadolivre.com.br/MLB-2616085110-1-prateleira-160mt-x-030mt-mdf-carvalho-15mm-160x30cm-160-_JM)
+
+## Suporte Para Prateleira Design Industrial Kit C/ 2 Branco
+**(R$ 160,00)**
+[Link](https://produto.mercadolivre.com.br/MLB-2617942710-suporte-para-prateleira-design-industrial-kit-c-2-branco-_JM)
+
 ---
 
 # Periféricos
