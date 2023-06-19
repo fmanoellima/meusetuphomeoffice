@@ -318,9 +318,9 @@ Cinza claro
 <!-- [Link](https://pt.aliexpress.com/item/1005002858346492.html)  -->
 [Link](https://s.click.aliexpress.com/e/_DmZnYWx)
 
-## Kumori Deskmat Speed Pattern Square 90 X 40
+## Kumori Deskmat Speed Pattern Square 90 X 40 cm
 **(R$ 189,00)**
-[Link] (https://kumori.com.br/produtos/deskmats/kumori-deskmat-speed?sku=KR1056)
+[Link](https://kumori.com.br/produtos/deskmats/kumori-deskmat-speed?sku=KR1056)
 
 
 ## Grampo adesivo para cabos maiores ou grupo de cabos
