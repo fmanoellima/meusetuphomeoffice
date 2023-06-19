@@ -13,7 +13,7 @@ Os preços são apenas referencias do momento em que eu adquiri os equipamentos 
 
 
 # Móveis 
-**Total: R$ 11.311,00**
+**Total: R$ 12.001,00**
 
 ## Cadeira DT3 Office Heroica Black 
 **(R$ 5681,00)**
@@ -273,7 +273,7 @@ Cinza claro
 ---
 
 # Acessórios
-**Total R$ 2.346**
+**Total R$ 2.346,00**
 
 ## Filtro de Linha iCLAMPER Energia 8 - Preto 2 Unidades 
 **(R$ 160,00)**
