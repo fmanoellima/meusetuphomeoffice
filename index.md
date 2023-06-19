@@ -58,7 +58,7 @@ Os preços são apenas referencias do momento em que eu adquiri os equipamentos 
 ---
 
 # Periféricos
-**Total: R$ 20.770,00**
+**Total: R$ 22.055,00**
 
 ## Monitor Gamer LG 34 LED Ultra Wide Curvo, 160 Hz, QHD, 1ms, HDMI/DisplayPort, 99% sRGB, FreeSync Premium, HDR 10, VESA, Preto - 34WP65C-B 
 **(R$ 2900,00)**
@@ -144,6 +144,11 @@ Os preços são apenas referencias do momento em que eu adquiri os equipamentos 
 
 
 
+## Mouse sem fio Logitech Mx Anywhere 3 - 
+Cinza claro 
+**(R$ 400,00)**
+[Link](https://www.logitechstore.com.br/mouse-sem-fio-logitech-mx-anywhere-3-a)
+
 ## Mouse sem fio Logitech MX Master 3S - Cinza Claro 
 **(R$ 700,00)**
 [Link](https://www.logitechstore.com.br/mouse-sem-fio-logitech-mx-master-3s-pale-grey)
@@ -168,9 +173,16 @@ Os preços são apenas referencias do momento em que eu adquiri os equipamentos 
 
 
 
+## Teclado Nuphy Halo65 - Ionic White + Twotone Wrist Rest
+**(R$ 885,00)**
+[Link](https://nuphy.com/collections/keyboards/products/halo65?variant=40366906507373) 
+
+
+
 ## Teclado Númerico Bluetooth Microsoft - Branco 
 **(R$ 200,00)**
 [Link](https://www.kabum.com.br/produto/374177/teclado-numerico-microsoft-bluetooth-23o-00030-microsoft)
+
 
 
 
@@ -239,7 +251,7 @@ Os preços são apenas referencias do momento em que eu adquiri os equipamentos 
 ---
 
 # Acessórios
-**Total R$ 2.296,90**
+**Total R$ 2.346**
 
 ## Filtro de Linha iCLAMPER Energia 8 - Preto 2 Unidades 
 **(R$ 160,00)**
@@ -306,12 +318,9 @@ Os preços são apenas referencias do momento em que eu adquiri os equipamentos 
 <!-- [Link](https://pt.aliexpress.com/item/1005002858346492.html)  -->
 [Link](https://s.click.aliexpress.com/e/_DmZnYWx)
 
-
-
-
-## Desk Pad MAX 90x40cm Preto em couro sintético 
-**(R$ 100,00)**
-[Link](https://www.bullpad.com.br/desk-pad-max-90x40cm-preto-em-couro-sintetico-desk90x40pto)
+## Kumori Deskmat Speed Pattern Square 90 X 40
+**(R$ 189,00)**
+[Link] (https://kumori.com.br/produtos/deskmats/kumori-deskmat-speed?sku=KR1056)
 
 
 ## Grampo adesivo para cabos maiores ou grupo de cabos
@@ -336,11 +345,6 @@ Os preços são apenas referencias do momento em que eu adquiri os equipamentos 
 ## Organizador de cabos branco
 **(R$ 20,00)**
 [Link](https://www.amazon.com.br/Organizador-Force-Line-0101200027-Branco/dp/B07F979YS9/ref=asc_df_B07F979YS9/)
-
-
-## Desk Pad Concept 70x30cm em Feltro Mescla 
-**(R$ 39,90)**
-[Link](https://www.bullpad.com.br/desk-pad-max-70x30cm-em-feltro-mescla-desk70x30feltromescla)
 
 
 ## Tapete Antifadiga 
