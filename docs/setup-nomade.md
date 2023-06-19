@@ -119,7 +119,6 @@ OU
 **(Entre R$ 75,00 e R$ 95,00)**
 <!-- [Link](https://pt.aliexpress.com/item/4001308374291.html) -->
 [Link](https://s.click.aliexpress.com/e/_DE3KVh5)
-
 ###### Compacto, permite ajuste de altura, angulo e suporta tablets também
 
 ## Suporte para notebook dobravel em aluminio
@@ -133,3 +132,7 @@ OU
 <!-- [Link](https://pt.aliexpress.com/item/1005002242704384.html) -->
 [Link](https://s.click.aliexpress.com/e/_DnqLbUL)
 ###### Multiplos compartimentos, discreta
+
+## Hub USB-C Anker 565 11 em 1, 10 Gbps,4K HDMI e DisplayPort, 100W Power Delivery
+**(R$ 400,00)**
+[Link](https://s.click.aliexpress.com/e/_DdPhocN)
