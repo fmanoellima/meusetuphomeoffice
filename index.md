@@ -133,7 +133,7 @@ Os preços são apenas referencias do momento em que eu adquiri os equipamentos 
 
 ##  Headset Gamer Corsair Virtuoso RGB Wireless SE Premium - 7.1 Drivers 50mm
 **(R$ 1040,00)**
-[Link] (https://www.kabum.com.br/produto/107880/headset-sem-fio-gamer-corsair-virtuoso-se-premium-rgb-som-surround-7-1-drivers-50mm-multiplas-plataformas-espresso-ca-9011181-na)
+[Link](https://www.kabum.com.br/produto/107880/headset-sem-fio-gamer-corsair-virtuoso-se-premium-rgb-som-surround-7-1-drivers-50mm-multiplas-plataformas-espresso-ca-9011181-na)
 
 
 ## Monitor Portátil Asus ZenScreen 15.6 Full HD, IPS, USB Type-C, Cinza Escuro - MB16ACE 
@@ -254,7 +254,7 @@ Cinza claro
 
 ## Caixa de som portátil Bluetooth Anker Soundcore motion plus
 **(R$ 450,00)**
-[Link] (https://s.click.aliexpress.com/e/_mt4c2C0)
+[Link](https://s.click.aliexpress.com/e/_mt4c2C0)
 
 ---
 
