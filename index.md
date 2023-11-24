@@ -12,6 +12,18 @@ nav_order: 1
 Os preços são apenas referencias do momento em que eu adquiri os equipamentos / produtos. Eles podem sofrer variação a qualquer momento.
 
 
+# Notebook e Tablets
+**Total: R$ 16.900,00**
+
+## Notebook Galaxy Book 3 Ultra I7 13Gen + RTX 4050 - 32GB RAM - 1TB SSD
+**(R$ 10.400,00)**
+[Link](https://www.samsung.com/br/computers/samsung-book/galaxy-book3-ultra-16-inch-i7-32gb-1tb-np960xfh-xa1br/)
+
+## Tablet Galaxy Tab S9+ com Capa Teclado (Wi-Fi) - 512GB
+**(R$ 6.500,00)**
+[Link](https://www.samsung.com/br/tablets/galaxy-tab-s/galaxy-tab-s9-plus-wi-fi-graphite-512gb-sm-x810nzahzto/)
+
+
 # Móveis 
 **Total: R$ 12.001,00**
 
@@ -20,11 +32,9 @@ Os preços são apenas referencias do momento em que eu adquiri os equipamentos 
 [Link](https://dt3.com.br/produtos/heroica1/)
 
 
-
 ## Mesa com Regulagem de Altura GenioDesk PRO 
 **(R$ 4000,00)**
 [Link](https://www.geniodesks.com.br/produto-mesa-com-regulagem-de-altura-geniodesk-pro)
-
 
 
 ## Calha para Gerenciamento de Cabos
@@ -32,11 +42,9 @@ Os preços são apenas referencias do momento em que eu adquiri os equipamentos 
 [Link](https://www.geniodesks.com.br/acessorios/calha-para-gerenciamento-de-cabos)
 
 
-
 ## Vértebra para Gerenciamento de Cabos
 **(R$ 200,00)**
 [Link](https://www.geniodesks.com.br/acessorios/produto-vertebra-para-gerenciamento-de-cabos)
-
 
 
 ## PRATELEIRA DE MESA - StandPro 2 White 
@@ -44,11 +52,9 @@ Os preços são apenas referencias do momento em que eu adquiri os equipamentos 
 [Link](https://www.anmasetups.com/produto/standpro-2-white/)
 
 
-
 ## Gaveteiro Bit 4 GV Branco 
 **(R$ 400,00)**
 [Link](https://www.mobly.com.br/gaveteiro-bit-4-gv-branco-649771.html)
-
 
 
 ## Gaveteiro Face 3 GV Branco 
@@ -72,7 +78,7 @@ Os preços são apenas referencias do momento em que eu adquiri os equipamentos 
 ---
 
 # Periféricos
-**Total: R$ 23.545,00**
+**Total: R$ 22.739,00**
 
 ## Monitor Gamer LG 34 LED Ultra Wide Curvo, 160 Hz, QHD, 1ms, HDMI/DisplayPort, 99% sRGB, FreeSync Premium, HDR 10, VESA, Preto - 34WP65C-B 
 **(R$ 2900,00)**
@@ -91,7 +97,6 @@ Os preços são apenas referencias do momento em que eu adquiri os equipamentos 
 [Link](https://www.dilluminato.com.br/produtos/luminaria-de-mesa-articulada-alice-branca/?variant=373916097)
 
 
-
 ## Yeelight-lâmpada inteligente led 1s colorida, 800 lúmens, e27 
 **(R$ 130,00)**
 <!--[Link](https://pt.aliexpress.com/item/4000631554842.html)  -->
@@ -103,17 +108,14 @@ Os preços são apenas referencias do momento em que eu adquiri os equipamentos 
 [Link](https://s.click.aliexpress.com/e/_Dl5djfh)
 
 
-
 ## Dock Station Thunderbolt™ Dell – WD22TB4 
 **(R$ 1700,00)**
 [Link](https://www.dell.com/pt-br/shop/dock-station-thunderbolt-dell-wd22tb4/apd/210-bfmv/acess%C3%B3rios-para-computador)
 
 
-
 ## Roteador Huawei AX3 Dual Core Wi-Fi 6, WS7100, com função Mesh, até 3000mbps de velocidade 
 **(R$ 500,00)**
 [Link](https://www.amazon.com.br/Roteador-WS7100-Parental-3000mbps-velocidade/dp/B08L9CK65H/ref=d_pd_vtp_sccl_3_7/145-6225994-8606921)
-
 
 
 ## Cabo Thunderbolt 4 100w 40gbps 
@@ -125,7 +127,6 @@ Os preços são apenas referencias do momento em que eu adquiri os equipamentos 
 ## Lampada Monitor Yeelight tela rgb led Smart barra de luz 
 **(R$ 600,00)**
 [Link](https://pt.aliexpress.com/item/1005002238265590.html)
-
 
 
 ## Fita de Led Smart Yeelight rgb lightstrip 1s 2Mt 
@@ -150,16 +151,14 @@ Os preços são apenas referencias do momento em que eu adquiri os equipamentos 
 [Link](https://www.kabum.com.br/produto/107880/headset-sem-fio-gamer-corsair-virtuoso-se-premium-rgb-som-surround-7-1-drivers-50mm-multiplas-plataformas-espresso-ca-9011181-na)
 
 
-## Monitor Portátil Asus ZenScreen 15.6 Full HD, IPS, USB Type-C, Cinza Escuro - MB16ACE 
-**(R$ 1500,00)**
-[Link](https://www.kabum.com.br/produto/113237/monitor-portatil-asus-zenscreen-15-6-full-hd-ips-usb-type-c-cinza-escuro-mb16ace)
-
+## Monitor Portátil VCHANCE 14 Inch 2.2K 2240*1400p 16:10 TOUCH
+**(R$ 694,00)**
+[Link](https://www.aliexpress.com/item/1005005603621298.html)
 
 
 ## Microfone HyperX QuadCast, Antivibração, LED, Preto e Vermelho
 **(R$ 800,00)**
 [Link](https://www.kabum.com.br/produto/101288/microfone-gamer-hyperx-quadcast-antivibracao-led-preto-e-vermelho-compativel-com-pc-mac-e-consoles-hx-micqc-bk)
-
 
 
 ## Mouse sem fio Logitech Mx Anywhere 3 - 
@@ -172,11 +171,9 @@ Cinza claro
 [Link](https://www.logitechstore.com.br/mouse-sem-fio-logitech-mx-master-3s-pale-grey)
 
 
-
 ## Mouse Sem Fio Logitech G604 - Preto 
 **(R$ 550,00)**
 [Link](https://www.logitechstore.com.br/mouse-sem-fio-para-jogos-logitech-g604/)
-
 
 
 ## Teclado Mecânico sem fio Logitech MX Mechanical Mini 
@@ -184,11 +181,9 @@ Cinza claro
 [Link](https://www.logitechstore.com.br/teclado-mecanico-sem-fio-logitech-mx-mechanical-mini/)
 
 
-
 ## Teclado sem fio Multi-dispositivo Logitech MX Keys Mini Cinza 
 **(Entre R$ 690,00 e R$ 800,00)**
 [Link](https://www.logitechstore.com.br/teclado-sem-fio-multi-dispositivo-logitech-mx-keys-mini-cinza/)
-
 
 
 ## Teclado Nuphy Halo65 - Ionic White + Twotone Wrist Rest
@@ -196,12 +191,9 @@ Cinza claro
 [Link](https://nuphy.com/collections/keyboards/products/halo65?variant=40366906507373) 
 
 
-
 ## Teclado Númerico Bluetooth Microsoft - Branco 
 **(R$ 200,00)**
 [Link](https://www.kabum.com.br/produto/374177/teclado-numerico-microsoft-bluetooth-23o-00030-microsoft)
-
-
 
 
 ## Webcam Insta360 Link - Com Rastreamento por IA, Controle de Gestos, HDR, Microfone com Supressão de Ruído, Modos Especializados, Sensor de 1/2", 4K 
@@ -209,12 +201,10 @@ Cinza claro
 <!--[Link](https://pt.aliexpress.com/item/1005004602831842.html) -->
 [Link](https://s.click.aliexpress.com/e/_DemYvZH)
 
-
-
+ 
 ## Amazon Echo Show 5 2 Gen 
 **(R$ 350,00)**
 [Link](https://www.amazon.com.br/Echo-Show-5-segunda-gera%C3%A7%C3%A3o-preto/dp/B08KGWJDRZ/ref=sr_1_1)
-
 
 
 ## Impressora Multifuncional Tanque de Toner HP Neverstop 1200W Laser com Wireless - 4RY26A 
@@ -222,11 +212,9 @@ Cinza claro
 [Link](https://www.fastshop.com.br/web/p/d/HPNVRST12WBCO_PRD/impressora-multifuncional-tanque-de-toner-hp-neverstop-1200w-laser-com-wireless-4ry26a)
 
 
-
 ## Nobreak Ragtech Senoidal NEP 1200VA, USB, Bivolt Aut, Saida 115V, 6 Tomadas, 1 Bateria - 4162 
 **(R$ 770,00)**
 [Link](https://www.kabum.com.br/produto/60198/nobreak-ragtech-senoidal-nep-1200va-usb-bivolt-aut-saida-115v-6-tomadas-1-bateria-4162)
-
 
 
 ## Ugreen usb hub 4-port usb 3.0 
@@ -235,12 +223,10 @@ Cinza claro
 [Link](https://s.click.aliexpress.com/e/_DEBFDKP)
 
 
-
 ## Carregador de Mesa Baseus 100W 
 **(R$ 305,00)**
 <!--[Link](https://pt.aliexpress.com/item/1005003117435688.html)-->
 [Link](https://s.click.aliexpress.com/e/_Dlncshv)
-
 
 
 
@@ -251,12 +237,10 @@ Cinza claro
 
 
 
-
 ## Carregador USB Baseus 20w 
 **(R$ 40,00)**
 <!--[Link](https://pt.aliexpress.com/item/1005002688466600.html)-->
 [Link](https://s.click.aliexpress.com/e/_DkU1b1V)
-
 
 
 
@@ -273,7 +257,7 @@ Cinza claro
 ---
 
 # Acessórios
-**Total R$ 2.346,00**
+**Total R$ 2784,50**
 
 ## Filtro de Linha iCLAMPER Energia 8 - Preto 2 Unidades 
 **(R$ 160,00)**
@@ -311,12 +295,10 @@ Cinza claro
 [Link](https://pt.aliexpress.com/item/1005001604294750.html)
 
 
-
 ## Suporte de madeira para fone de ouvido 
 **(R$ 70,00)**
 <!--[Link](https://pt.aliexpress.com/item/1005001501505728.html) -->
 [Link](https://s.click.aliexpress.com/e/_DES37GL)
-
 
 
 ## Braço articulado para microfone Vijim ls24 
@@ -325,14 +307,15 @@ Cinza claro
 [Link](https://s.click.aliexpress.com/e/_Dd0QT8b)
 
 
-
-
 ## Braço articulado para Webcam
 **(R$ 229,00)**
 <!--[Link](https://pt.aliexpress.com/item/1005003140476462.html) -->
 [Link](https://s.click.aliexpress.com/e/_DFdC8Pd)
 
-
+## Suporte Articulado de Mesa ELG Branco com Pistão a Gás Para Monitores de 17" a 35" - F80W + Bandeja Branca Notebook Acoplável A Suporte De Pistão Snb-8
+**(R$ 438,50)**
+[Link](https://elg.com.br/produto/solucoes-inteligentes/suportes/suporte-articulado-de-mesa-elg-branco-com-pistao-a-gas-para-monitores-de-17-a-35-f80w.html)
+[Link Bandeja](https://www.lsvferramentas.com.br/MLB-2831504181-bandeja-branca-notebook-acoplavel-a-suporte-de-pisto-snb-8-_JM)
 
 
 ## Ugreen suporte vertical portátil notebook  alumínio 
